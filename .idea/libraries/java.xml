@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-162/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-183/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-198/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-199-change-classifier/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-199/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-228/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-238-modular-jar-main-class/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-260-invalid-automatic-module-name/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-260-valid-automatic-module-name/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-275-reproducible-module-info/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-30-excludes/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-30-excludes/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-30-fullcontent/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-30-fullcontent/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-30-include/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-60/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-70-no-recreation/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-70-recreation/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-75/client/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-75/model/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-80-exclude/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-80-exclude/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-80-fullcontent/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-80-fullcontent/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-80-include/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-80-include/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/MJAR-82/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/manifest-content/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/mjar-139/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/mjar-71-01/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/mjar-71-02/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/mjar-90/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/mjar-90/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/it/project-004/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/maven-jar-plugin-3.3.0-source-release.zip!/maven-jar-plugin-3.3.0/src/test/resources/unit/jar-basic-test/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
